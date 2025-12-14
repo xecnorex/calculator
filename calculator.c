@@ -62,6 +62,8 @@ sec_input:
   if (anss == 'y' || anss == 'Y') {
     goto beginning;
   }
-
+  else {
+    printf("babi");
+  }
   return 0;
 }
